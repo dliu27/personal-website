@@ -19,10 +19,10 @@ class Projects extends React.Component {
                   </CardText>
                     <CardActions border>
                       
-                    <a href="https://github.com/dliu27/dliu27.github.io">
+                    <a href="https://github.com/dliu27/personal-website">
                       <Button colored>GitHub</Button>
                     </a>
-                    <a href="http://www.dliu27.github.io">
+                    <a href="https://dliu27.herokuapp.com/">
                       <Button colored>Live Demo</Button>
                     </a>
 
