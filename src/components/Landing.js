@@ -21,7 +21,7 @@ class Landing extends Component {
 
                             <div className="social-links">
                                 <div className="file">
-                                    <a href="resume" rel="noopener noreferrer">
+                                    <a href="/Resume" rel="noopener noreferrer">
                                         <i className="fa fa-file-text" aria-hidden="true"></i>
                                     </a>
                                 </div>
