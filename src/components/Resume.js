@@ -5,7 +5,7 @@ class Resume extends Component {
         return(
             <div className="resume">
                 <iframe 
-                src="David_Liu_Resume.pdf"
+                src="resume.pdf"
                 scrolling="auto"
                 height="100%"
                 width="100%"
